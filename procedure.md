@@ -1,5 +1,5 @@
 <!-- TITLE: Resolving tickets -->
-<!-- SUBTITLE: Pocedure when responding to tickets -->
+<!-- SUBTITLE: All the steps to resolving a ticket -->
 
 # Making the appointment
 The normal procedure when you accept a ticket is to reach out to the requester yourself.
