@@ -3,4 +3,4 @@
 # CSTS Wiki
 This wiki has rules and resources for CSTS helpers.
 
-A good start is the [request](../blo
+A good start is the [request](./procedure)
