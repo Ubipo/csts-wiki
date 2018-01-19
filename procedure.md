@@ -1,4 +1,4 @@
-<!-- TITLE: Procedure -->
+<!-- TITLE: Resolving tickets -->
 <!-- SUBTITLE: Pocedure when responding to tickets -->
 
 # Making the appointment
